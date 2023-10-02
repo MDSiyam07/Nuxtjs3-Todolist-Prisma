@@ -11,7 +11,7 @@
 ## Tech
 ![NuxtJS](https://img.shields.io/badge/Nuxt-000?&logo=Nuxtdotjs)
 ![Prisma](https://img.shields.io/badge/Prisma-008000?&logo=Prisma)
-Store by 🍍 Pinia
+🍍 Pinia
 
 
 ## Installation
