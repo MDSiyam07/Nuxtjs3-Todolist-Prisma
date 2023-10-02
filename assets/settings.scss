@@ -1,0 +1,8 @@
+// Font specify in nuxt.config.ts
+$family: "Roboto", sans-serif;
+
+@use 'vuetify/settings' with (
+    $body-font-family: $family,
+);
+
+html { overflow-y: auto };
