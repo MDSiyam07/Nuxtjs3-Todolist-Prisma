@@ -1,6 +1,6 @@
 ## Features of Application
 - Login
-- Create a user
+- Register / Create a user
 - Logout
 
 ## Features of the Todolist
@@ -12,6 +12,7 @@
 ![NuxtJS](https://img.shields.io/badge/Nuxt-000?&logo=Nuxtdotjs)
 ![Prisma](https://img.shields.io/badge/Prisma-008000?&logo=Prisma)
 🍍 Pinia
+Use of the module @sidebase/nuxt-auth (sidebase.io/nuxt-auth/) for the Authentification system
 
 
 ## Installation
@@ -24,9 +25,13 @@ npm run dev
 ```
 
 For Prisma's database
-
 ```sh
 npx prisma migrate dev --name init
+```
+
+ Open the Prisma's visual editor for the data in your database
+```sh
+npx prisma studio
 ```
 
 
