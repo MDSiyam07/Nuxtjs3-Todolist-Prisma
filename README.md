@@ -13,7 +13,7 @@
 ![Prisma](https://img.shields.io/badge/Prisma-008000?&logo=Prisma)
 🍍 Pinia
 
-Use of the module @sidebase/nuxt-auth (sidebase.io/nuxt-auth/) for the Authentification system
+- Use of the module @sidebase/nuxt-auth (sidebase.io/nuxt-auth/) for the Authentification system
 
 
 ## Installation
