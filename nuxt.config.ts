@@ -33,6 +33,9 @@ export default ({
     },
     build:{ transpile: ["vuetify"] },
     vite: { ssr: { noExternal: ["vuetify"] } },
+    nitro: {
+      preset: 'vercel'
+    },
     // @ts-ignore
     // Here you can specify a custom font for the app
     googleFonts: {
