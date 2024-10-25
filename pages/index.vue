@@ -1,7 +1,7 @@
 <script setup lang="ts">
   const { data } = useAuth()
 
-  import { ref, onMounted } from 'vue';
+  import { ref, onMounted, computed } from 'vue';
   import { useTodoStore } from "../store/store";
   import { useUserStore } from '~/store/user';
 
